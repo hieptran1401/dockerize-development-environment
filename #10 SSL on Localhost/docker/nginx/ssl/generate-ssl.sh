@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Set the TLD domain we want to use
-BASE_DOMAIN=$DEV_DOMAIN
+BASE_DOMAIN=$DOMAIN
 
 # Days for the cert to live
 DAYS=1095
